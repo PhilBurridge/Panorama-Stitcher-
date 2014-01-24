@@ -1,4 +1,4 @@
 Panorama-Stitcher-
 ==================
 
-Panorama Stitcher 
+Panorama Stitcher for matlab
